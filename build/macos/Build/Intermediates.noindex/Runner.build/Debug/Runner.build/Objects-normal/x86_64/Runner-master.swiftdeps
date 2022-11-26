@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)"
+options: "9a1a92567da5ba281853eeb8aa848932366c22d4c906cd6a3183548b7eafb970"
+build_start_time: [1665320443, 325834989]
+build_end_time: [1665320447, 763192176]
+inputs:
+  "/Users/lee/Documents/GitHub/flutter_location_app/macos/Flutter/GeneratedPluginRegistrant.swift": [1665320421, 232897520]
+  "/Users/lee/Documents/GitHub/flutter_location_app/macos/Runner/AppDelegate.swift": [1657744753, 0]
+  "/Users/lee/Documents/GitHub/flutter_location_app/macos/Runner/MainFlutterWindow.swift": [1657744753, 0]
